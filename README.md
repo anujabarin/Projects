@@ -1,4 +1,4 @@
-# Projects
+# Churn Prediction Model
 
             Introduction
 In the tough telecom sector, keeping current clients is just as important as attracting new
